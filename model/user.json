@@ -1,0 +1,18 @@
+[
+  {
+    "username": "user1",
+    "roles": { "User": 1111 },
+    "password": "$2b$10$FmhmsI/TcEAgj6XuSmlu.uY/BMIVZO32CmG0zQH7N7RcGSGI1IYhK"
+  },
+  {
+    "username": "editor",
+    "roles": { "Editor": 2222, "User": 1111 },
+    "password": "$2b$10$FmhmsI/TcEAgj6XuSmlu.uY/BMIVZO32CmG0zQH7N7RcGSGI1IYhK"
+  },
+  {
+    "username": "deepti",
+    "roles": { "Admin": 3333, "User": 1111 },
+    "password": "$2b$10$FmhmsI/TcEAgj6XuSmlu.uY/BMIVZO32CmG0zQH7N7RcGSGI1IYhK",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRlZXB0aSIsImlhdCI6MTY3OTA1MzMzOCwiZXhwIjoxNjc5MTM5NzM4fQ.OMrQ-ryWw0Caxi5kE4UTlPl-fddqoUxppr0IVRyFlhs"
+  }
+]
